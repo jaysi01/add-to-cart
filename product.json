@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" G-SHOCK GMAS120MF-4A1 ",
+        "price": 200,
+        "image": "watches 01/girl01.jpg"
+    },
+    {
+        "id": 2,
+        "name":" G-SHOCK GMA-S130-1A",
+        "price": 250,
+        "image": "watches 01/girl02.jpg"
+    },
+    {
+        "id": 3,
+        "name":" G-SHOCK GMA-S120MF-7A2",
+        "price": 290,
+        "image": "watches 01/girl03.jpg"
+    },
+    {
+        "id": 4,
+        "name":" G-SHOCK GMA-S120MF-2A",
+        "price": 200,
+        "image": "watches 01/girl04.jpg"
+    },
+    {
+        "id": 5,
+        "name":" G-SHOCK GMA-S120MF-4A1",
+        "price": 300,
+        "image": "images.jfif"
+    },
+    {
+        "id": 6,
+        "name":" G-SHOCK GMA-S120MF-8A2",
+        "price": 200,
+        "image": "watches 01/girl06.jpg"
+    },
+    {
+        "id": 7,
+        "name":" G-SHOCK GMA-S130-2A",
+        "price": 200,
+        "image": "watches 01/girl07.jpg"
+    },
+    {
+        "id": 8,
+        "name":"G-SHOCK GMA-S130-4A",
+        "price": 200,
+        "image": "watches 01/girl08.jpg"
+    }
+
+]
